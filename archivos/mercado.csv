@@ -1,0 +1,11 @@
+Producto,Cantidad,Unidad de Medida,Precio Unitario,Total,Categoría,Marca,Notas
+Leche,2,Litros,1.5,3.00,Lácteos,La Lechera,Sin lactosa
+Pan,1,Unidad,2.0,2.00,Productos de Panadería,La Panadería del Barrio,Integral
+Huevos,1,Docena,2.5,2.50,Proteínas,Granja Feliz,
+Manzanas,3,Kilos,3.0,9.00,Frutas,Manzanas Verdes,
+Arroz,1,Kilo,1.0,1.00,Granos,Arroz del País,
+Pollo,2,Kilos,5.0,10.00,Carnes,Granja Avícola,
+Verduras Mixtas,1,Bolsa,2.5,2.50,Verduras,Verdulería Local,
+Detergente,1,Botella,2.0,2.00,Limpieza,Marca X,
+Jabón de Baño,3,Unidades,1.0,3.00,Higiene Personal,Marca Y,
+Papel Higiénico,2,Rollos,1.5,3.00,Limpieza,Marca Z,
